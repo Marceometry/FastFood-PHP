@@ -1,0 +1,23 @@
+body {
+    background: #f0f0f0;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1, h2 {
+    width: fit-content;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #17d356;
+    text-align: left;
+    padding: 8px;
+}
